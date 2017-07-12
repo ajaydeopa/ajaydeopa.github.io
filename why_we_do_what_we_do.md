@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Why we do What we do
 permalink: why_we_do_what_we_do
 ---
 
