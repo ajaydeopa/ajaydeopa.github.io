@@ -1,6 +1,6 @@
 ---
 title: My page
-permalink: mypageurl.html
+permalink: why_we_do
 ---
 
 ## WHY we do WHAT we do
