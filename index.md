@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WHY we do WHAT we do
 
 You can use the [editor on GitHub](https://github.com/ajaydeopa/ajaydeopa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
