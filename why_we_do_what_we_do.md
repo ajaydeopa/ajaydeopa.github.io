@@ -1,3 +1,8 @@
+layout: post
+title:  "WHY we do WHAT we do"
+date:   2015-11-17 16:16:01 -0600
+categories: About Us
+
 ## WHY we do WHAT we do
 
 Everyone has some stories that inspires them to do what they do. We are no different. There are things that inspired us to do what we do today and as the title suggest we would like to share those stories with everyone. But before answering WHY it is important to first explain WHAT we do?
