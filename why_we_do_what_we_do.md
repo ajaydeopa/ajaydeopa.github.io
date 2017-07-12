@@ -18,7 +18,7 @@ In every field there are critics who points out the faults or error in the metho
 When we were testing different websites most of the websites irrespective of how beautiful they were scored very low in most of the tests like speed and user-friendliness test.  
 You can try one such tool at our website [kilobytetech.com](https://kilobytetech.com) for free and check out your website's performance.
 
-2. Cost Factor (Who may have guessed?)  
+2. Cost Factor (Really?)  
 In sites like Freelancer, Truelancer etc. where people post their projects to hire freelancers we noticed a trend. Some of the bids were very low and some of them were quite high. We noticed that most of the time the bids were placed only to get the project but not to build a good project which is a wrong way of doing things.
 
 After analyzing everything we came to the conclusion that there is a need to improve the development process of a product.
